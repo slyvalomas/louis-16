@@ -1,0 +1,164 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+.box{
+    border: 3px dashed black;
+    /* padding: 3rem; */
+    display: flex;
+    justify-content: center;
+    margin-top: 5rem;
+    /* width: 30rem;*/
+    width: 100%;
+    border-radius: 20px ;
+    
+    height: 45rem;
+    
+    
+    /* position: fixed;
+    position: sticky; */
+    
+}
+.box1{
+    border: 3px solid rgb(4, 0, 255);
+    /* width: 20rem;
+    height: 40rem; */
+    margin-top: 2.5rem;
+    /* position: relative; */
+    border-radius: 20px;
+    margin-bottom: 1.5rem;
+    
+
+
+}
+body{
+    display: flex;
+    justify-content: center;
+    font-size: 0rem; 
+    
+    height: 100%;
+    position: relative;
+    background-color: rgb(115, 158, 198)
+}
+.box11{
+    font-size: 5.5rem;
+    text-align: center;
+    
+    border-top: 2px solid black;
+    
+}
+.box111{
+    background-color: aquamarine;
+    border-top: 1px  solid white;
+    position: absolute;
+    text-align: start;
+    top: 535px;
+    bottom: 20rem;
+    right: 2px;
+    left: 2px;
+    border-radius:  20px 20px 20px 20px;
+    font-size: 30px;
+    padding-left :1rem; 
+    margin-top: 17rem;
+    border: 3px dashed rgb(0, 0, 0);
+    width: fit-content;
+    height: fit-content;
+    
+}
+.box3{
+    background-color: rgb(255, 0, 0);
+    position: fixed;
+    top: 0;
+    text-align: center;
+    width: 100%;
+    border: 2px solid black;
+    border-radius:  0px 0px 20px 20px;
+    z-index: 2;
+}
+.box4{
+    background-color: rgb(225, 255, 0);
+    position: sticky;
+    top: 20rem;
+    border-radius: 0 0 20px 20px;
+    border: 2px solid black;
+    
+
+    /* bottom: 5rem;
+    padding: 3rem; */
+}
+.box2{
+    background-color: rgb(77, 78, 71);
+    position: relative;
+    bottom: 0px;
+    padding: 3rem;
+    border-radius: 18px 18px 0 0
+
+}
+.copy{
+    text-align: center;
+    font-size: 2rem;
+    position: fixed;
+    top:0;
+    width: 100%;
+    margin: 1rem;
+    z-index: 2;
+    justify-content: center;
+    display: flex;
+
+}
+a:hover{
+    background-color: black;
+    color:whitesmoke;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius:20px;
+    padding-left:11px ;
+    padding-right: 8px;
+    height: 40px;
+    border-radius: 20px;
+    
+}
+a{
+    margin-left: 5px;
+    text-decoration: none;
+}
+.louis17{    
+    text-align: center;
+    margin: auto;
+    margin-top: 8rem;
+    font-size: 2rem;
+    position: relative;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    background-color: wheat;
+    color:rgb(0, 0, 0);
+    border: 1px solid #333;
+    margin-bottom: 5rem;
+
+
+}
+.louis{
+    margin: auto;
+    margin-top: 3rem;
+}
+.div{background-color: #333;
+
+
+}
+.copy1{
+    margin-top: 2rem;
+    padding-top: 2rem;
+}
+section{
+    background-color: red;
+    border:1px solid #333;
+    width: 500px;
+    height: 40px;
+    border-radius: 20px;
+}
+.khibra{
+    padding: 2rem;
+}
+
